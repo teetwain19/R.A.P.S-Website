@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Royal Ambassadors Private School</title>
+	<style>
+		/* Add some basic styling to make the page look decent */
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+		}
+		.header {
+			background-color: #f0f0f0;
+			padding: 20px;
+			text-align: center;
+		}
+		.menu-bar {
+			background-color: #333;
+			color: #fff;
+			padding: 10px;
+			text-align: center;
+		}
+		.menu-bar a {
+			color: #fff;
+			text-decoration: none;
+		}
+		.search-bar {
+			width: 50%;
+			margin: 20px auto;
+			padding: 10px;
+			border: 1px solid #ccc;
+		}
+		.main-content {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			padding: 20px;
+		}
+	</style>
+</head>
+<body>
+	<div class="header">
+		<h1>Royal Ambassadors Private School</h1>
+		<p>Developing Royal Seed Of Greetness</p>
+		<div class="search-bar">
+			<input type="search" placeholder="Search...">
+		</div>
+	</div>
+	<div class="menu-bar">
+		<a href="#about-us">About Us</a> |
+		<a href="#registration">Registration</a> |
+		<a href="#contact-us">Contact Us</a>
+	</div>
+	<div class="main-content">
+		<a href="school-calendar.html">School Calendar</a>
+		<a href="activity-blog.html">Activity/Blog</a>
+		<a href="#contact-us">Contact Us</a>
+	</div>
+</body>
+</html>
+</!DOCTYPE html>
